@@ -1,0 +1,6 @@
+{
+  "name": "Daily Hisab - Income & Expense",
+  "description": "Secure offline income and expense tracker with multi-period reports, category budgeting, and passcode lock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
